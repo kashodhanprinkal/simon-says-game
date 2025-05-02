@@ -1,8 +1,4 @@
-Here’s a simpler version of the `README.md` file you can use for your Simon Says game:
 
----
-
-```markdown
 # Simon Says Game 🎮
 
 A simple memory game built using HTML, CSS, and JavaScript.
@@ -16,8 +12,8 @@ A simple memory game built using HTML, CSS, and JavaScript.
 ## How to Play
 
 1. Press any key to start the game.
-2. Repeat the color sequence shown by the game.
-3. If you make a mistake, the game ends and your score is shown.
+2. Follow the color sequence shown by the game.
+3. If you make a mistake, the game ends and your score is displayed.
 
 ## Tech Stack
 
@@ -37,25 +33,18 @@ simon-says-game/
 
 ```
 
-## License
+## Clone the App
 
-MIT License
+To clone and run the app locally:
+
+1. Clone the repository:
 ```
 
----
+git clone https://github.com/kashodhanprinkal/simon-says-game.git
 
-To add this to your project, follow the steps:
-
-1. Open VS Code and create a new file called `README.md` in your project folder.
-2. Copy and paste the above content into the `README.md` file.
-3. Save the file (`Ctrl + S` or `Cmd + S`).
-
-Finally, add, commit, and push to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add simple README"
-git push origin main
 ```
 
-Let me know if you need help with anything else!
+2. Open the `index.html` file in your browser to start the game.
+
+
+
